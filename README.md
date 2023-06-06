@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hac%C4%B1-h%C3%BCsn%C3%BC-yumrukaya-301401171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrekarabay" height="30" width="40" /></a>
-<a href="https://www.instagram.com/haci_yumrukaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emre_karabayy" height="30" width="40" /></a>
+<a href="https://www.instagram.com/haci_gizem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emre_karabayy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
